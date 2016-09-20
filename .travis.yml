@@ -9,5 +9,4 @@ install:
 - sudo apt-get install ros-jade-desktop
 
 script:
-- ls /opt
-- rospack list
+- ./run.sh
